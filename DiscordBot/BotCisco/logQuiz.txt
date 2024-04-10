@@ -1,0 +1,16 @@
+{'idAuthor': 263776530327404554, 'correctAns': 3, 'totalAns': 4, 'currentQuestion': 2}
+{'idAuthor': 253539124022083584, 'correctAns': 20, 'totalAns': 34, 'currentQuestion': 26}
+{'idAuthor': 564894235485274132, 'correctAns': 26, 'totalAns': 38, 'currentQuestion': 30}
+{'idAuthor': 460836405292040202, 'correctAns': 85, 'totalAns': 116, 'currentQuestion': 105}
+{'idAuthor': 898902167216349214, 'correctAns': 33, 'totalAns': 33, 'currentQuestion': 23}
+{'idAuthor': 593555501346848798, 'correctAns': 4, 'totalAns': 9, 'currentQuestion': 5}
+{'idAuthor': 1045045718831874199, 'correctAns': 51, 'totalAns': 68, 'currentQuestion': 53}
+{'idAuthor': 657914320952360971, 'correctAns': 2, 'totalAns': 3, 'currentQuestion': 1}
+{'idAuthor': 951999118996307999, 'correctAns': 12, 'totalAns': 17, 'currentQuestion': 12}
+{'idAuthor': 362966162830655489, 'correctAns': 115, 'totalAns': 121, 'currentQuestion': 102}
+{'idAuthor': 485698603176820738, 'correctAns': 0, 'totalAns': 0, 'currentQuestion': 0}
+}
+}
+}
+}
+}
